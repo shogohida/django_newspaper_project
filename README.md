@@ -1,1 +1,0 @@
-# django_newspaper_project
